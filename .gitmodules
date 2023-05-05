@@ -9,3 +9,7 @@
 	path = HTR-solver
 	url = git@github.com:Anjiang-Wei/HTR-solver.git
 	branch = optimal
+[submodule "DSLMapper"]
+	path = DSLMapper
+	url = git@github.com:Anjiang-Wei/DSLMapper.git
+	branch = main
