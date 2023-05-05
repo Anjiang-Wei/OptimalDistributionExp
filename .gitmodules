@@ -1,0 +1,11 @@
+[submodule "CustomLegionSpy"]
+	path = CustomLegionSpy
+	url = git@github.com:Anjiang-Wei/CustomLegionSpy.git
+[submodule "optimaldistribution"]
+	path = optimaldistribution
+	url = git@github.com:Anjiang-Wei/optimaldistribution.git
+	branch = optimal
+[submodule "HTR-solver"]
+	path = HTR-solver
+	url = git@github.com:Anjiang-Wei/HTR-solver.git
+	branch = optimal
